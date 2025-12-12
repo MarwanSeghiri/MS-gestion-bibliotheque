@@ -130,6 +130,6 @@ Body:
 - `controller/` API REST
 - `service/` logique métier
 - `repository/` accès BD (Spring Data JPA)
-66→- `domain/` entités JPA
-67→- `exception/` gestion des erreurs
-68→- `config/` configuration (filtre API key)
+- `domain/` entités JPA
+-  `exception/` gestion des erreurs
+-  `config/` configuration (filtre API key)
